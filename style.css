@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+body {
+  background: black;
+  font-size: XX-Large;
+  text-align: center;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  border-radius: 25px;
+  background: green;
+  color: yellow;
+  font-size: large;
+}
+input {
+  text-align: center;
+  height: 25px;
+  color: red;
+}
